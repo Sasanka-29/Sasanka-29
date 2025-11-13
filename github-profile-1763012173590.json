@@ -1,0 +1,103 @@
+{
+  "version": "1.0.0",
+  "exportedAt": "2025-11-13T05:36:13.583Z",
+  "profile": {
+    "title": "Sasanka Barman",
+    "subtitle": "A passionate Embedded Engineer and Python developer",
+    "currentWork": "Hand Gesture Recognition using TinyML",
+    "currentLearn": "MSP430",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "",
+    "contact": "sasankabarman2016@gmail.com",
+    "funFact": "",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": true,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": true,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "",
+    "blog": "",
+    "resume": "https://drive.google.com/file/d/1xWT70r7pzrCPknfIpct4a5jB1ZvUDJA7/view?usp=drive_link"
+  },
+  "social": {
+    "github": "Sasanka-29",
+    "dev": "",
+    "linkedin": "https://www.linkedin.com/in/sasanka-barman-a58027226/",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "https://www.kaggle.com/sasankabarman",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "https://www.hackerrank.com/profile/sasankabarman201",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "arduino",
+    "c",
+    "gcp",
+    "ifttt",
+    "illustrator",
+    "jupyter",
+    "keras",
+    "matlab",
+    "matplotlib",
+    "mysql",
+    "numpy",
+    "pandas",
+    "photoshop",
+    "python",
+    "pytorch",
+    "scikit_learn",
+    "tensorflow"
+  ]
+}
