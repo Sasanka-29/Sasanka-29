@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sasanka-29&label=Profile%20views&color=0e75b6&style=flat" alt="Sasanka-29" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sasanka-29" alt="Sasanka-29" /></a> </p>
-
 - 🔭 I'm currently working on **Hand Gesture Recognition using TinyML**
 
 - 🌱 I'm currently learning **MSP430**
