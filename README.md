@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sasankabarman2016@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1xWT70r7pzrCPknfIpct4a5jB1ZvUDJA7/view?usp=drive_link](https://drive.google.com/file/d/1xWT70r7pzrCPknfIpct4a5jB1ZvUDJA7/view?usp=drive_link)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1xWT70r7pzrCPknfIpct4a5jB1ZvUDJA7/view?usp=drive_link](https://drive.google.com/file/d/1g5DgZKb7e31Rt87bq3jGS7rHkAeDsd84/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
