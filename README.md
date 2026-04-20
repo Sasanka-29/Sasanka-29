@@ -1,75 +1,98 @@
-# Hi 👋, I'm Sasanka Barman
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sasanka+%F0%9F%91%8B;Embedded+Systems+%7C+AI+%7C+ML+Engineer;Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-### A passionate Embedded Engineer and Python developer
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sasanka&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sasanka?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sasanka-29&label=Profile%20views&color=0e75b6&style=flat" alt="Sasanka-29" /> </p>
+---
 
-- 🔭 I'm currently working on **Hand Gesture Recognition using TinyML**
+## 🙋‍♂️ About Me
 
-- 🌱 I'm currently learning **MSP430**
+- 🔭 Currently working on **Gas Flow Metering with MSP430FR6043 & Ultrasonic Sensing**
+- 🌱 Exploring **Embedded AI, TinyML, and Edge Computing**
+- 💡 Passionate about **Hardware Optimization, Signal Processing, and Deep Learning**
+- 📫 Reach me at the links below
 
-- 📫 How to reach me **sasankabarman2016@gmail.com**
+---
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1xWT70r7pzrCPknfIpct4a5jB1ZvUDJA7/view?usp=drive_link](https://drive.google.com/file/d/1g5DgZKb7e31Rt87bq3jGS7rHkAeDsd84/view?usp=drive_link)**
+## 🔗 Connect with Me
 
-### 🚀 Current Skills
-
-- **Embedded Systems:** MSP430, Arduino, ESP32, UART communication, sensor interfacing
-- **Programming:** C, Python
-- **AI/ML:** TensorFlow, Keras, PyTorch, scikit-learn
-- **Data & Scientific Stack:** NumPy, Pandas, Matplotlib, Jupyter
-- **Tools & Platforms:** MATLAB, MySQL, Google Cloud, IFTTT
-
-### 🛠️ Developments I’ve Done
-
-- **Digital Incentive Spirometer (MSP430FR6043 USS):** Built an ultrasonic sensing based spirometer with UART pipeline and Python GUI for real-time respiratory data.
-- **Supercapacitor Bank for Shock360:** Designed a handcrank-charged supercapacitor energy storage and delivery system for high-power pulse operation.
-- **Smart Home Water Motor Automation:** Developed an ultrasonic sensor based automatic water motor control solution for household water optimization.
-- **Intelligent Motor Control for Agricultural Rover:** Worked on smart motor control design and embedded sensing for precision agriculture use cases.
-- **Rhesus Macaque Acoustic Classification:** Built CNN/LSTM-based models for age-sex classification from bioacoustic data.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/Sasanka-29" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn.simpleicons.org/github" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/sasanka-barman-a58027226/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.kaggle.com/sasankabarman" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn.simpleicons.org/kaggle" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/sasankabarman201" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="mailto:sasankabarman2016@gmail.com">
-    <img align="center" src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" width="40" />
+<p align="center">
+  <a href="https://github.com/Sasanka-29" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/sasanka-barman-a58027226/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://www.kaggle.com/sasankabarman" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>&nbsp;
+  <a href="mailto:sasanka@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit-learn" width="40" height="40"/></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="Adobe Photoshop" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=illustrator" alt="Adobe Illustrator" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="40" height="40"/></a>
-  <a href="https://ifttt.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/ifttt" alt="IFTTT" width="40" height="40"/></a>
+---
+
+## 🛠️ Languages and Tools
+
+### ⚙️ Embedded & Hardware
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sasanka-29&show_icons=true&locale=en&layout=compact" alt="Sasanka-29" /></p>
+### 🤖 AI / ML Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sasanka-29&show_icons=true&locale=en" alt="Sasanka-29" /></p>
+### 🖥️ Dev Tools & Environments
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sasanka-29&" alt="Sasanka-29" /></p>
+### 🎨 Design Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sasanka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasanka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasanka&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="55%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sasanka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <i>"Build things that matter. Measure what counts."</i>
+</p>
