@@ -12,10 +12,26 @@
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1xWT70r7pzrCPknfIpct4a5jB1ZvUDJA7/view?usp=drive_link](https://drive.google.com/file/d/1g5DgZKb7e31Rt87bq3jGS7rHkAeDsd84/view?usp=drive_link)**
 
+### 🚀 Current Skills
+
+- **Embedded Systems:** MSP430, Arduino, ESP32, UART communication, sensor interfacing
+- **Programming:** C, Python
+- **AI/ML:** TensorFlow, Keras, PyTorch, scikit-learn
+- **Data & Scientific Stack:** NumPy, Pandas, Matplotlib, Jupyter
+- **Tools & Platforms:** MATLAB, MySQL, Google Cloud, IFTTT
+
+### 🛠️ Developments I’ve Done
+
+- **Digital Incentive Spirometer (MSP430FR6043 USS):** Built an ultrasonic sensing based spirometer with UART pipeline and Python GUI for real-time respiratory data.
+- **Supercapacitor Bank for Shock360:** Designed a handcrank-charged supercapacitor energy storage and delivery system for high-power pulse operation.
+- **Smart Home Water Motor Automation:** Developed an ultrasonic sensor based automatic water motor control solution for household water optimization.
+- **Intelligent Motor Control for Agricultural Rover:** Worked on smart motor control design and embedded sensing for precision agriculture use cases.
+- **Rhesus Macaque Acoustic Classification:** Built CNN/LSTM-based models for age-sex classification from bioacoustic data.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Sasanka-29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sasanka-29" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Sasanka Barman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sasanka Barman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sasanka-barman-a58027226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sasanka Barman" height="30" width="40" /></a>
 <a href="https://kaggle.com/sasankabarman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sasankabarman" height="30" width="40" /></a>
 <a href="https://hackerrank.com/sasankabarman201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sasankabarman201" height="30" width="40" /></a>
 </p>
@@ -28,4 +44,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sasanka-29&show_icons=true&locale=en" alt="Sasanka-29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sasanka-29&" alt="Sasanka-29" /></p>
-
