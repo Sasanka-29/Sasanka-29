@@ -42,7 +42,7 @@
   <a href="https://www.hackerrank.com/sasankabarman201" target="_blank" rel="noreferrer">
     <img align="center" src="https://cdn.simpleicons.org/hackerrank" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="mailto:sasankabarman2016@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:sasankabarman2016@gmail.com" rel="noreferrer">
     <img align="center" src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" width="40" />
   </a>
 </p>
